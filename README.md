@@ -46,7 +46,7 @@ An enterprise-grade, full-stack Library Management System built with the **MERN 
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/channabasava302812/library-management-system
 cd library-management-system
 
 Backend Setup
